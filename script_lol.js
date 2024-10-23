@@ -21,6 +21,7 @@ async function getMatchHistory() {
 
 function updateStats() {
     getMatchHistory();
+    
     // Hier könntest du auch das Win/Lose Verhältnis aktualisieren.
 }
 
